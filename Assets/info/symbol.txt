@@ -1,0 +1,124 @@
+////////Separators////////
+ 	html code:	&nbsp;	Standard space character, separator
+ 		&thinsp;	Thin space character
+ 	html code:	&ensp;	A bit wider space character
+ 		&emsp;	Wide space character
+—	html code:	&mdash;	Long minus, long dash, hyphen, &#8212
+⁄		&frasl;	Fraction slash, solidus character
+
+
+////////Just some////////
+…	html code:	&hellip;	Ellipsis, ellipses, three dots, etc, etcetera, et cetera, many dots, dot-dot-dot, dot dot dot. Alt code: 0133
+æ	html code:	&aelig;	Ash tree, aesc, ae, ea
+&		&amp;	And sign
+°	html code:	&deg;	Degree sign
+№		&#8470;	Number sign, &#8470
+™	html code:	&trade;	Trade mark sign
+©		&copy;	Copyright sign
+®	html code:	&reg;	Registered sign
+@		&#64;	Dog, At sign, &#64
+†	html code:	&dagger;	Dagger, cross, &#8224
+‡		&Dagger;	Double-sided dagger, double dagger, &#8225
+§	html code:	&sect;	Paragraph, section sign
+#		&#35;	Number sign, sharp character, &#35
+μ	html code:	&mu;	Mu sign
+Θ		&Theta;	Greek capital theta sign
+¤	html code:	&curren;	Current sign, coin sign
+
+
+////////Braces////////
+<	html code:	&lt;	Tag opening, less than sign, angle quotes
+>		&gt;	Tag closing, more than sign, angle quotes
+[	html code:	&#91;	Square opening brace, &#91
+]		&#93;	Square closing brace, &#93
+(	html code:	&#40;	Left parenthesis, round opening brackets, comment starting, &#40
+)		&#41;	Right parenthesis, round closing brackets, comment ening, &#41
+{	html code:	&#123;	Left curly brace, &#123
+}		&#125;	Right curly brace, &#125
+
+ 
+////////Brackets////////
+′	html code:	&prime;	Standard quotation marks, prime sign
+"		&quot;	Quotation (Citate) marks sign
+‘	html code:	&lsquo;	Opening quotation mark sign, &#8216
+’		&rsquo;	Closing quotation mark, apostrophe sign, &#8217
+‹	html code:	&lsaquo;	Citate opening sign, angle quotes
+›		&rsaquo;	Citate closing, angle quotes
+«	html code:	&laquo;	Guillemets, rewind, angle quotes open sign
+»		&raquo;	Guillemets, fast forward, angle quotes cloe sign
+
+
+////////Currency symbols////////
+$	html code:	&#36;	USD, Dollar sign, Bucks sign, &#36
+€		&euro;	EUR, Euro sign, &#8364
+£	html code:	&pound;	GBP, English, Pound sign
+¥		&yen;	JPY, Yen sign
+¢	html code:	&cent;	Cent sign
+
+
+////////Cards game signs////////
+◊	html code:	&loz;	Rhombus, Rombus, Lozenge card character
+♦		&diams;	Diams card character. In notepad: Alt + Num Pad 4 with Num Pad 'unlocked'. ALT + #4
+♠	html code:	&spades;	Spades card character. In notepad: Alt + Num Pad 6 with Num Pad 'unlocked'. ALT + #6
+♣		&clubs;	Shamrock, Clubs card character. In notepad: Alt + Num Pad 5 with Num Pad 'unlocked'. ALT + #5
+♥	html code:	&hearts;	Valentine, love, Hearts card character. In notepad: Alt + Num Pad 3 with Num Pad 'unlocked'. ALT + #3
+
+
+/////////Arrow characters////////
+↵	html code:	&crarr;	Carriege return, cursor point to begin, new line, line break
+←		&larr;	Left arrow
+→	html code:	&rarr;	Right arrow
+↔		&harr;	Two-sided arrow, double-sided arrow, double sided arrow
+↑	html code:	&uarr;	Up arrow
+↓		&darr;	Down arrow
+⇐	html code:	&lArr;	Left double arrow
+⇒		&rArr;	Right double arrow
+⇔	html code:	&hArr;	Two sided double arrow, double sided double arrow
+⇓		&dArr;	Down double arrow
+⇑	html code:	&uArr;	Up double arrow
+
+
+////////Frequently used maths signs////////
+Δ	html code:	&Delta;	Change, triangle up, delta character
+∇		&nabla;	Nabla character, triangle down, harp, upside-down delta, upside-down triangle
+ƒ	html code:	&fnof;	Function sign
+π		&pi;	Pi sign
+±	html code:	&plusmn;	Plus-minus, plus minus
+÷		&divide;	Divide, devide, calc divide sign
+×	html code:	&times;	Times, multiply sign, calc multiply
+¹		&sup1;	First degree of the polynomial, 1-st degree sign
+²	html code:	&sup2;	Second degree of the polynomial, 2-nd degree, square sign
+³		&sup3;	Third degree of the polynomial, 3-rd degree, cobe sign
+½	html code:	&frac12;	Half, division by 2, devision by 2, 1/2 sign
+¼		&frac14;	One Forth, division by 4, devision by 4, 1/4 sign
+¾	html code:	&frac34;	3/4 sign
+
+
+////////Maths symbols////////
+≤	html code:	&le;	Less or equal, less-equal, not more sign
+≥		&ge;	More or equal, more-equal, not less sign
+·	html code:	&middot;	Middle dot, bullet, interpunct. In notepad: Alt + Num Pad 7 with Num Pad 'unlocked'. ALT + #7 (reversed colors - #8)
+∏		&prod;	Product, multiply function
+∑	html code:	&sum;	Sum, summary, altogether, sigma sign
+−		&minus;	Minus, small hyphen
+√	html code:	&radic;	Square root, Yes, Accepted
+∞		&infin;	Infinity
+∠	html code:	&ang;	Angle
+∼		&sim;	Similar, approximate sign
+∈	html code:	&isin;	Is in, in set, inside
+
+
+////////Symbols from advanced maths////////
+∝	html code:	&prop;	Proportional
+≈		&asymp;	Asymptotic, similar, approximate sign
+∫	html code:	&int;	Integral
+∀		&forall;	For all, Forall, every
+∃	html code:	&exist;	Exists sign, at least one
+∂		&part;	Part of
+∅	html code:	&empty;	Empty, latin o slash. Ø - &Oslash;
+∉		&notin;	Not in set sign
+∩	html code:	&cap;	In both sets
+∪		&cup;	Summarize sets, summary set
+‰	html code:	&permil;	Permil, per mile, permile, promille
+∴		&there4;	Therefore sign
+⊥	html code:	&perp;	Perpendecular, 90 degrees
