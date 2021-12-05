@@ -1,2 +1,1 @@
-# VoughtV7--Music
-http://127.0.0.1:5500/index.html
+# VoughtV7--Music https://executionerakash.github.io/VoughtV7--Music/
